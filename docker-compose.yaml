@@ -3,7 +3,7 @@ services:
   frontend:
     image: taieb98/todo_react_img
     ports:
-      - 3000:3000
+      - ${FRONT_ACCESS_PORT}:${FRONT_ACCESS_PORT}
     stdin_open: true
     volumes:
       - ./frontend:/app
@@ -15,7 +15,7 @@ services:
     restart: always
     image: taieb98/backend_img
     ports:
-      - 5001:5001
+      - ${BACKEND_ACCESS_PORT}:${BACKEND_ACCESS_PORT}
     volumes:
       - ./backend:/app
       - /app/node_modules
