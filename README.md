@@ -1,6 +1,6 @@
 # Docker TODO app < Node JS, React and MongoDB.>
 [![back CI](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml/badge.svg?branch=main)](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml)
-
+[![front CI](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/front_ci.yml/badge.svg?branch=main)](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/front_ci.yml)
 
 <img width="407" alt="getall" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/9cc79ee7-273f-4c58-8429-f7a0b31ce94c">
 
