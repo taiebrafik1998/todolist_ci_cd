@@ -1,0 +1,23 @@
+version: "3"
+services:
+  frontend:
+    image: taieb98/todo_react_img
+    ports:
+      - 3000:3000
+    stdin_open: true
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    container_name: frontend
+    restart: always
+  backend:
+    container_name: backend
+    restart: always
+    image: taieb98/backend_img
+    ports:
+      - 5001:5001
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    
+ 
