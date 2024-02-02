@@ -8,7 +8,7 @@ RUN echo " port  is : 3000"
 WORKDIR /app
 
 
-#COPY . .
+
 COPY package*.json /app/
 
 
