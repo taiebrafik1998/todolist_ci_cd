@@ -107,5 +107,19 @@ $ docker-compose up
 
 <img width="936" alt="docker-compose" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/f3e296b8-01fc-40a1-acd8-84b399f332d9">
 
+####  Verification of FrontEnd
+
+ouvre un navigateur
+
+###### :clipboard: `Note: It is the port which I defined in `.env` file you can change this port it's totally up to you.`
+
+```
+http://localhost:3000/
+```
+
+
+vous allez tomber sur cette ecran
+
+
 ### l'ecran de l'app
 ![Capture d'écran 2024-02-02 095440](https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/8cbf25c3-9241-465a-bb22-57a2ba7ed39a)
