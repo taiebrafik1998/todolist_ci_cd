@@ -104,3 +104,7 @@ pour demarer le projet
 ```bash
 $ docker-compose up
 ```
+### l'ecran de l'app
+<img width="936" alt="docker-compose" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/f3e296b8-01fc-40a1-acd8-84b399f332d9">
+
+![Capture d'écran 2024-02-02 095440](https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/8cbf25c3-9241-465a-bb22-57a2ba7ed39a)
