@@ -11,17 +11,8 @@ jobs:
   back_ci:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      
-
-    - name: Install dependencies
-      working-directory: ./backend
-      run: npm install
-
-    - name: Run tests
-      working-directory: ./backend
-      run: npm start
+    - name: Build and push
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
