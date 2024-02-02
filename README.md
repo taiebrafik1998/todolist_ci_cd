@@ -2,9 +2,14 @@
 [![back CI](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml/badge.svg?branch=main)](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml)
 [![front CI](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/front_ci.yml/badge.svg?branch=main)](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/front_ci.yml)
 
+![Capture d'écran 2024-02-02 162215](https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/9e5df18b-44f1-4abf-8f36-3eadf1f6ebb5)
+
+
 <img width="407" alt="getall" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/9cc79ee7-273f-4c58-8429-f7a0b31ce94c">
 
 <img width="407" alt="getall" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/6ca0b392-28af-4934-a18a-72685680f067">
+
+
 
 update et delete c'est presque la meme chose juste l'un supprime a la fin l'autre il met ajour
 
