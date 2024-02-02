@@ -1,6 +1,13 @@
 # Docker TODO app < Node JS, React and MongoDB.>
 [![back CI](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml/badge.svg?branch=main)](https://github.com/taiebrafik1998/todolist_ci_cd/actions/workflows/back.yml)
 
+
+<img width="407" alt="getall" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/9cc79ee7-273f-4c58-8429-f7a0b31ce94c">
+
+<img width="407" alt="getall" src="https://github.com/taiebrafik1998/todolist_ci_cd/assets/84631421/6ca0b392-28af-4934-a18a-72685680f067">
+
+update et delete c'est presque la meme chose juste l'un supprime a la fin l'autre il met ajour
+
  avant tous je tien a remercier AbdulMoqueet vu que j'ai suivi avec lui le projet (tuto youtube)
 
  ## Overview
